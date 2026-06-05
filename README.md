@@ -8,41 +8,26 @@ The Mental Health Check-In Dashboard is an interactive data analytics project de
 
 ## 🚀 Features
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Mental health trend analysis
-* Interactive visualizations and charts
-* Statistical insights generation
-* User-friendly dashboard interface
-* Data-driven decision support
+- Interactive mental health analytics dashboard
+- Real-time filtering and data exploration
+- Mental health trend visualization
+- Demographic-based insights
+- Dynamic charts and graphs using Plotly
+- User-friendly interface built with Streamlit
+- Data-driven insight generation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Language
-
-* Python
-
-### Development Environment
-
-* Google Colab
-* Jupyter Notebook
-
-### Data Analysis & Processing
-
-* Pandas
-* NumPy
-
-### Data Visualization
-
-* Matplotlib
-* Plotly
-
-### Version Control
-
-* Git
-* GitHub
+| Category | Technologies |
+|-----------|-------------|
+| Programming Language | Python |
+| Framework | Streamlit |
+| Data Analysis | Pandas |
+| Data Visualization | Plotly Express |
+| Development Environment | Google Colab |
+| Version Control | Git, GitHub |
 
 ---
 
